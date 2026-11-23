@@ -1,6 +1,6 @@
 # Data Professional Survey Dashboard
 
-An interactive Power BI dashboard that analyzes a survey of 212 data professionals. It covers where they live, what they earn, which programming languages they prefer, and how satisfied they are with their jobs.
+An interactive Power BI dashboard that analyzes a survey of 212 data professionals. It covers where they live, what they earn, which programming languages they prefer and how satisfied they are with their jobs.
 
 ## Dashboard Visuals
 
